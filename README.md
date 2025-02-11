@@ -24,3 +24,4 @@ This project analyzes **311 customer service requests** in **New York City** to 
 ## 🔧 Tools & Technologies Used
 - **Python**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
+- **Jupyter Notebook** for data exploration
